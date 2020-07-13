@@ -2,6 +2,12 @@
 
 This is a personal project I created to get more practice on Java.
 
+## Instructions to run
+
+1. Clone the repo
+2. Inside src, run `javac *.java`
+3. Run `java MainPokedex`
+
 ## Author
 
 Diego Simonelli - [diegosimonelli.com](https://diegosimonelli.com/) for more information
